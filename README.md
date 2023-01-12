@@ -10,3 +10,8 @@ Goals:
 - [ ] Daily UI challange
 - [ ] Build Face Recognition API on blockchian
 - [ ] Write a paper "AI face recognition authentication based on blockchain"
+
+
+# 1 day 
+----
+Downloaded pdf materials to study and write a paper
